@@ -712,6 +712,11 @@ export const adConfig = {
     ],
   },
 
+  trafficgate: {
+    prefetch: 'https://ad2.trafficgate.net/amp/ad.min.js',
+    renderStartImplemented: true,
+  },
+
   triplelift: {},
 
   valuecommerce: {

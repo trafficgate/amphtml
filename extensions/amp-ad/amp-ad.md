@@ -300,6 +300,7 @@ See [amp-ad rules](https://github.com/ampproject/amphtml/blob/master/extensions/
 - [SunMedia](../../ads/sunmedia.md)
 - [Swoop](../../ads/swoop.md)
 - [Teads](../../ads/teads.md)
+- [TrafficGate](../../ads/trafficgate.md)
 - [TripleLift](../../ads/triplelift.md)
 - [ValueCommerce](../../ads/valuecommerce.md)
 - [VMFive](../../ads/vmfive.md)
